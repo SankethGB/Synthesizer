@@ -1,5 +1,5 @@
 # Synthesizer
-Used Javascript DOM to create a synthesizer.
+Used Javascript,CSS to create a synthesizer.
 Use the following keys to attain output
 Keyboard Key - Synthesizer Key
 Q              C
