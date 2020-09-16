@@ -1,6 +1,9 @@
 # Synthesizer
 Used Javascript,CSS to create a synthesizer.
 
+https://user-images.githubusercontent.com/44996458/93334732-06df0d80-f843-11ea-815d-d249ff31499b.png
+
+
 Use the following keys to attain output
 
 Keyboard Key - Synthesizer Key
