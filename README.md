@@ -5,29 +5,29 @@ Use the following keys to attain output
 
 Keyboard Key - Synthesizer Key
 
-Q              C
+Q--C
 
-W              C#
+W          --    C#
 
-E              D
+E      --        D
 
-R              D#
+R       --       D#
 
-T              E
+T         --     E
 
-Y              F
+Y        --      F
 
-U              F#
+U        --      F#
 
-I              G
+I        --      G
 
-O              G#
+O        --      G#
 
-P              A
+P        --      A
 
-{              A#
+{        --      A#
 
-}              B
+}        --      B
 
 
 Adiitionally you can use your mouse to click over the on screen button to get the corresponding output.
